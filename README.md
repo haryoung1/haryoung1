@@ -1,7 +1,7 @@
  # LINK
  ### 1st PERSONAL PROJECT <a href="https://github.com/haryoung1/1st-dentalproject"><img src="https://img.shields.io/badge/치과예약 프로젝트-F7941D?style=for-the-badge&logo=github&logoColor=white"/></a>
 
- ### 2nd TEAM PROJECT  <a href="https://github.com/jooooung/jeju-2ndTeamProject"><img src="https://img.shields.io/badge/JEJU어때?-#FF9900?style=for-the-badge&logo=CodeProject&logoColor=white"/></a>
+ ### 2nd TEAM PROJECT  <a href="https://github.com/jooooung/jeju-2ndTeamProject"><img src="https://img.shields.io/badge/JEJU어때-#FF9900?style=for-the-badge&logo=CodeProject&logoColor=white"/></a>
  
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/JEJU 어때?-E34F26?style=for-the-badge&logo=html5&logoColor=white">
