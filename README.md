@@ -2,7 +2,7 @@
  ### 1st PERSONAL PROJECT <a href="https://github.com/haryoung1/1st-dentalproject"><img src="https://img.shields.io/badge/치과예약 프로젝트-F7941D?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  ### 2nd TEAM PROJECT  <a href="https://github.com/jooooung/jeju-2ndTeamProject"><img src="https://img.shields.io/badge/JEJU어때?-#FF9900?style=for-the-badge&logo=CodeProject&logoColor=white"/></a>
- 
+ <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  ### 공부일지 <a href="https://github.com/haryoung1/Sungbin_webPro/tree/main/%EC%9A%94%EC%95%BD%EC%A0%95%EB%A6%AC"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  # 📚 SKIL
